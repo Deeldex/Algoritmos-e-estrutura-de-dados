@@ -124,6 +124,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 735 | Asteroid Collision | [Visualizar](./Leetcode/Medium/AsteroidCollision/)
 | 739 | Daily Temperatures | [Visualizar](./Leetcode/Medium/DailyTemperatuJres/) |
 | 775 | Global and Local Inversions | [Visualizar](./Leetcode/Medium/GlobalAndLocalInversions/) |
+| 875 | Koko Eating Bananas | [Visualizar](./Leetcode/Medium/KokoEatingBananas/) |
 | 877 | Stone Game | [Visualizar](./Leetcode/Medium/StoneGame/) |
 | 912 | Sort an Array | [Visualizar](./Leetcode/Medium/SortAnArray/) |
 | 1004 | Max Consecutive Ones III | [Visualizar](./Leetcode/Medium/MaxConsecutiveOnesIII/)|
